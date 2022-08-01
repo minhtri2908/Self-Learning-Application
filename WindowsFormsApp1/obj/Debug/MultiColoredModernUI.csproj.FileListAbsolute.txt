@@ -1,0 +1,83 @@
+D:\Project C#\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\MultiColoredModernUI.csproj.AssemblyReference.cache
+D:\Project C#\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.FormMainMenu.resources
+D:\Project C#\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+D:\Project C#\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\MultiColoredModernUI.csproj.GenerateResource.cache
+D:\Project C#\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\MultiColoredModernUI.csproj.CoreCompileInputs.cache
+D:\Project C#\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+D:\Project C#\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+D:\Project C#\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+D:\Project C#\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+D:\Project C#\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+D:\Project C#\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.SomeForms.FormPorodoro.resources
+C:\Users\PC\Desktop\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\PC\Desktop\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\PC\Desktop\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\PC\Desktop\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\MultiColoredModernUI.csproj.AssemblyReference.cache
+C:\Users\PC\Desktop\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.FormMainMenu.resources
+C:\Users\PC\Desktop\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\PC\Desktop\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\MultiColoredModernUI.csproj.GenerateResource.cache
+C:\Users\PC\Desktop\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\MultiColoredModernUI.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\PC\Desktop\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\PC\Desktop\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.SomeForms.FormPorodoro.resources
+C:\Users\PC\Desktop\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.SomeForms.Formgoogle.resources
+C:\Users\PC\Desktop\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.SomeForms.FormTodoList.resources
+C:\Users\PC\Desktop\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.casio.resources
+C:\Users\PC\Desktop\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.ptbac2.resources
+C:\Users\PC\Desktop\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.he_ptb1_2an.resources
+C:\Users\PC\Desktop\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.khaican.resources
+C:\Users\PC\Desktop\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.luythua.resources
+C:\Users\PC\Desktop\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.he_ptb1_3an.resources
+C:\Users\PC\Desktop\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.loglncs.resources
+C:\Users\PC\Desktop\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.luonggiac.resources
+C:\Users\PC\Desktop\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.giaithua.resources
+C:\Users\PC\Desktop\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.ptbac3.resources
+C:\Users\PC\Desktop\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.SomeForms.break_notice.resources
+D:\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+D:\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+D:\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+D:\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\MultiColoredModernUI.csproj.AssemblyReference.cache
+D:\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.SomeForms.break_notice.resources
+D:\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.casio.resources
+D:\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.FormMainMenu.resources
+D:\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.giaithua.resources
+D:\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.he_ptb1_2an.resources
+D:\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.he_ptb1_3an.resources
+D:\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.khaican.resources
+D:\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.loglncs.resources
+D:\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.luonggiac.resources
+D:\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.luythua.resources
+D:\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+D:\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.ptbac2.resources
+D:\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.ptbac3.resources
+D:\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.SomeForms.Formgoogle.resources
+D:\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.SomeForms.FormTodoList.resources
+D:\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\MultiColoredModernUI.csproj.GenerateResource.cache
+D:\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\MultiColoredModernUI.csproj.CoreCompileInputs.cache
+D:\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+D:\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+D:\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.SomeForms.FormPomodoro.resources
+C:\Users\PC\Desktop\WindowsFormsApp1-new\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\MultiColoredModernUI.csproj.AssemblyReference.cache
+C:\Users\PC\Desktop\WindowsFormsApp1-new\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.SomeForms.break_notice.resources
+C:\Users\PC\Desktop\WindowsFormsApp1-new\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.casio.resources
+C:\Users\PC\Desktop\WindowsFormsApp1-new\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.FormMainMenu.resources
+C:\Users\PC\Desktop\WindowsFormsApp1-new\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.giaithua.resources
+C:\Users\PC\Desktop\WindowsFormsApp1-new\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.he_ptb1_2an.resources
+C:\Users\PC\Desktop\WindowsFormsApp1-new\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.he_ptb1_3an.resources
+C:\Users\PC\Desktop\WindowsFormsApp1-new\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.khaican.resources
+C:\Users\PC\Desktop\WindowsFormsApp1-new\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.loglncs.resources
+C:\Users\PC\Desktop\WindowsFormsApp1-new\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.luonggiac.resources
+C:\Users\PC\Desktop\WindowsFormsApp1-new\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.luythua.resources
+C:\Users\PC\Desktop\WindowsFormsApp1-new\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\PC\Desktop\WindowsFormsApp1-new\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.ptbac2.resources
+C:\Users\PC\Desktop\WindowsFormsApp1-new\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.ptbac3.resources
+C:\Users\PC\Desktop\WindowsFormsApp1-new\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.SomeForms.Formgoogle.resources
+C:\Users\PC\Desktop\WindowsFormsApp1-new\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.SomeForms.FormPomodoro.resources
+C:\Users\PC\Desktop\WindowsFormsApp1-new\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.SomeForms.FormTodoList.resources
+C:\Users\PC\Desktop\WindowsFormsApp1-new\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\MultiColoredModernUI.csproj.GenerateResource.cache
+C:\Users\PC\Desktop\WindowsFormsApp1-new\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\MultiColoredModernUI.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\WindowsFormsApp1-new\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\PC\Desktop\WindowsFormsApp1-new\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\PC\Desktop\WindowsFormsApp1-new\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\PC\Desktop\WindowsFormsApp1-new\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\PC\Desktop\WindowsFormsApp1-new\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
